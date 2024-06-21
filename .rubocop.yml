@@ -1,0 +1,7 @@
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+Style/StringLiteralsInInterpolation:
+  EnforcedStyle: single_quotes
+
+Layout/SpaceInsideHashLiteralBraces:
+  EnforcedStyle: space
